@@ -1,0 +1,11 @@
+{
+  "name": "sonos-fixer",
+  "version": "0.1.0",
+  "description": "Tired of colleagues renaming SONOS devices with silly, inscrutable names? Lock their names with the sonos-fixer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakob Buis <jakob@jakobbuis.nl>",
+  "license": "MIT"
+}
